@@ -16,7 +16,6 @@ O projeto busca responder as seguintes perguntas:
 - Qual foi o impacto da vacinação na pandemia de Covid-19 no Brasil em 2021?
 - Quais foram as tendências de casos e mortes por Covid-19 no Brasil em 2021?
 
-
 --------------------------------------
 O código inclui as seguintes etapas:
 - Extração de dados;
