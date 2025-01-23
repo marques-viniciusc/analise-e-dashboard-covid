@@ -14,7 +14,7 @@ Este projeto tem como objetivo realizar a extração, tratamento e visualizaçã
     - Preenchimento de dados ausentes e reorganização do dataset.
 
 - **Visualizações:**
-    -Evolução diária de casos confirmados, óbitos e vacinação.
+    - Evolução diária de casos confirmados, óbitos e vacinação.
     - Análise temporal detalhada com gráficos.
 
 - **Exportação:** Criação de arquivos CSV para utilização em dashboards e análises futuras.
