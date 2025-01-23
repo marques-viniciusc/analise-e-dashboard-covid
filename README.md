@@ -83,7 +83,7 @@ python analise_dashboard_covid.py
 
 ## Personalização
 - Novas Métricas: Adapte o código para incluir outras análises ou variáveis de interesse.
-Visualizações Personalizadas: Crie novos gráficos para destacar diferentes aspectos da pandemia.
+- Visualizações Personalizadas: Crie novos gráficos para destacar diferentes aspectos da pandemia.
 
 ## Observações
 Certifique-se de que a conexão com a internet está ativa durante a execução do código, pois os dados são baixados de fontes online. Caso o formato dos dados originais mude, ajustes no código poderão ser necessários.
